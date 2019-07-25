@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/LiverpoolFC/static/css/main.59101a6c.chunk.css",
+    "main.js": "/LiverpoolFC/static/js/main.80b70c38.chunk.js",
+    "main.js.map": "/LiverpoolFC/static/js/main.80b70c38.chunk.js.map",
+    "runtime~main.js": "/LiverpoolFC/static/js/runtime~main.195a0d7d.js",
+    "runtime~main.js.map": "/LiverpoolFC/static/js/runtime~main.195a0d7d.js.map",
+    "static/js/2.8fe2a5d9.chunk.js": "/LiverpoolFC/static/js/2.8fe2a5d9.chunk.js",
+    "static/js/2.8fe2a5d9.chunk.js.map": "/LiverpoolFC/static/js/2.8fe2a5d9.chunk.js.map",
+    "index.html": "/LiverpoolFC/index.html",
+    "precache-manifest.bf3bfe70c5aedd45564f98dbd5c86ea3.js": "/LiverpoolFC/precache-manifest.bf3bfe70c5aedd45564f98dbd5c86ea3.js",
+    "service-worker.js": "/LiverpoolFC/service-worker.js",
+    "static/css/main.59101a6c.chunk.css.map": "/LiverpoolFC/static/css/main.59101a6c.chunk.css.map",
+    "static/media/Liverpool-jersey.jpg": "/LiverpoolFC/static/media/Liverpool-jersey.98ef62ba.jpg",
+    "static/media/SalahCover.png": "/LiverpoolFC/static/media/SalahCover.8980949d.png",
+    "static/media/liverpool.png": "/LiverpoolFC/static/media/liverpool.49fb318e.png",
+    "static/media/virgil_van_dijk.png": "/LiverpoolFC/static/media/virgil_van_dijk.14840165.png"
+  }
+}
