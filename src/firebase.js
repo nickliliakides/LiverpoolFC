@@ -10,7 +10,7 @@ const config = {
   databaseURL: "https://liverpoolfc-de252.firebaseio.com",
   projectId: "liverpoolfc-de252",
   storageBucket: "liverpoolfc-de252.appspot.com",
-  messagingSenderId: "437242336774"
+  messagingSenderId: "437242334590"
 };  
 
 firebase.initializeApp(config);
