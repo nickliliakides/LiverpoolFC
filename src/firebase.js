@@ -5,7 +5,7 @@ import 'firebase/auth';
 import 'firebase/storage';
 
 const config = {
-  apiKey: "AIzaSyDt5AuQz7CTuA2epYzHqTyAKXrg2R8e2O4",
+  apiKey: "********************************",
   authDomain: "liverpoolfc-de252.firebaseapp.com",
   databaseURL: "https://liverpoolfc-de252.firebaseio.com",
   projectId: "liverpoolfc-de252",
